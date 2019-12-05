@@ -26,7 +26,7 @@ def day2():
             break
         else:
             print("Something went wrong")
-        i = i + 4
+        i += 4
 
 
 if __name__ == "__main__":
